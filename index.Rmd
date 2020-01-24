@@ -1,0 +1,134 @@
+---
+title: "Brown-bag"
+# author: '*di Eric Stephani*'
+# date: "Idea 2020"
+output:
+  html_document:
+    highlight: tango
+    theme: united
+    toc: yes
+    toc_float: yes
+  prettydoc::html_pretty: default
+subtitle: A pausa con la statistica pubblica
+---
+
+<br>
+<br>
+
+## "Brown-bag"" e statistica {.tabset}
+
+### Sfatare i luoghi comuni
+- Al mondo ci sono tre categorie di bugie: le bugie, le enormi bugie e le statistiche  
+- La statistica non piace a nessuno  
+- I numeri della statistica pubblica, poi... ancora peggio
+
+> *E se provassimo a parlare di statistica con un panino tra le mani?*  
+
+<br>
+
+### Brown-bag (il concetto)
+> In pratica con **"Brown-bag"** si intende un seminario, una sessione di formazione o di informazione organizzata in maniera semplice e informale durante una pausa pranzo.
+
+Le caratteristiche di una sessione di formazione di questo genere sono principalmente due:  
+1) si mangia  
+2) l'incontro è improntato alla discussione libera e informale (salvo una brevissima introduzione iniziale)
+
+### La statistica a pranzo (in pratica)
+Prima di ogni incontro sarà mandato a tutti gli iscritti un tema di partenza.
+
+> Il tema di partenza sarà attinente al mondo della statistica pubblica e in particolare alle statistiche inerenti al mercato del lavoro.
+
+<br>
+
+## Iscrizione {.tabset}
+Per partecipare ai **"brown-bag"** siete pregati di inviare una e-mail a:  
+[**eric.stephani@ti.ch**](eric.stephani@ti.ch)  
+
+<br>
+
+## Informazioni utili {.tabset}
+
+### Quando
+
+> **da definire**
+
+**Orari**: 11.30 -  13:30   
+**Periodo**: febbraio – ottobre 2020
+
+### Dove
+**Primo incontro**: c/o Labor transfer, centro Ala, Via Monda 2b, 6528 Camorino
+
+### Destinatari
+Ai **brown-bag** sono invitati tutti i partecipanti al [corso di statistica pubblica](https://ericsteph.github.io/corso2020) e, ovviamente, anche corsisti degli anni passati.  
+In generale la proposta si offre a tutte le persone interessate o, semplicemente incuriosite, a ritagliarsi un momento per ascoltare o parlare di statistica.
+
+
+## Date e contenuti {.tabset}
+
+### Calendario
+**da definire**
+```{r echo=FALSE, eval=FALSE}
+library(knitr)
+library(kableExtra)
+
+text_tbl <- data.frame(
+  Data = c("6 febbraio", "20 febbraio", "12 marzo",
+           "14 maggio", "24 settembre"),
+  Descrizione = c("Introduzione alla statistica pubblica",
+                  "Statistica delle imprese (STATIMP), statistica sulle persone occupate (SPO) e statistica dei frontalieri (STAF)",
+                  "Rilevazione dei salari (RSS)",
+                  "Panorama statistico del mercato del lavoro",
+                  "Incontro conclusivo"),
+  Orario = c("16.00 - 18:00",
+             rep("13:30 - 16:30", times = 3),
+             "16:00 - 18:00"))
+
+kable(text_tbl) %>%
+  kable_styling(full_width = T) %>%
+  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(2, width = "30em", background = "#F2F2F2", border_right = T)
+```
+
+<!-- ### Giovedì 6 febbraio -->
+<!-- #### Introduzione alla statistica pubblica -->
+<!-- -	Ruolo dell’Ufficio di statistica   -->
+<!-- -	Usi dei prodotti di statistica pubblica   -->
+<!-- -	Futuro della statistica pubblica -->
+
+<!-- ### Giovedì 20 febbraio -->
+<!-- #### Statistica delle imprese (STATIMP), statistica sulle persone occupate (SPO) e statistica dei frontalieri (STAF) -->
+<!-- -	Informazioni di base sulle statistiche   -->
+<!-- -	Potenzialità conosciute: numero di posti di lavoro per settore economico, persone occupate e frontalieri per categoria socio-demografica   -->
+<!-- -	Potenzialità meno conosciute: carenza di lavoro, come leggere i dati in maniera integrata   -->
+<!-- -	Lettura degli ultimi dati a disposizione -->
+
+<!-- ### Giovedì 12 marzo -->
+<!-- #### Rilevazione dei salari (RSS) -->
+<!-- -	Informazioni di base sulla statistica   -->
+<!-- -	Potenzialità conosciute: salario mediano, confronto tra Ticino e Svizzera e lettura per categoria socio-demografica   -->
+<!-- -	Potenzialità meno conosciute: analisi per percentili, analisi per sottogruppi di popolazione, confronti a parità di caratteristiche   -->
+<!-- -	Lettura degli ultimi dati a disposizione -->
+
+<!-- ### Giovedì 14 maggio -->
+<!-- #### Presentazione del prodotto: “Panorama statistico del mercato del lavoro” -->
+<!-- -	Informazioni di base sul prodotto   -->
+<!-- -	Senso del prodotto sintetico e possibili utilizzi   -->
+<!-- -	Possibilità di approfondimento e di “individualizzazione” del prodotto -->
+
+<!-- ### Giovedì 24 settembre -->
+<!-- #### Incontro conclusivo -->
+
+
+## Informazioni complementari {.tabset}
+
+### Contatti
+Eric Stephani  
+*Collaboratore scientifico*  
+Ufficio di statistica  
+Tel. + 41 91 814 50 35  
+[eric.stephani@ti.ch](eric.stephani@ti.ch)
+
+### Chi sono
+> Eric Stephani, licenziato in scienze economiche e sociali all’Università di Friburgo, dal 2008 lavoro in seno all’Ufficio di statistica in qualità di collaboratore scientifico e mi occupo di economia del mercato del lavoro, analisi della struttura economica e di congiuntura. Nel 2017 ho iniziato la formazione quale formatore per adulti e collaboro, in qualità di formatore, con l’associazione “Inserimento svizzera” e con l’Istituto universitario federale per la formazione professionale (IUFFP). 
+
+
