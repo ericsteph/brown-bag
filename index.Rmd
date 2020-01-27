@@ -9,7 +9,7 @@ output:
     toc: yes
     toc_float: yes
   prettydoc::html_pretty: default
-subtitle: A pausa con la statistica pubblica
+subtitle: Pausa pranzo con la statistica pubblica
 ---
 
 <br>
@@ -18,31 +18,31 @@ subtitle: A pausa con la statistica pubblica
 ## "Brown-bag"" e statistica {.tabset}
 
 ### Sfatare i luoghi comuni
-- Al mondo ci sono tre categorie di bugie: le bugie, le enormi bugie e le statistiche  
-- La statistica non piace a nessuno  
-- I numeri della statistica pubblica, poi... ancora peggio
+- Al mondo ci sono tre categorie di bugie: le bugie, le grandi bugie e le statistiche  
+- La statistica non piace  
+- I numeri della statistica pubblica, poi... peggio ancora
 
-> *E se provassimo a parlare di statistica con un panino tra le mani?*  
+> *E se provassimo a parlare di statistica durante la pausa pranzo? Con un panino tra le mani?*  
 
 <br>
 
 ### Brown-bag (il concetto)
-> In pratica con **"Brown-bag"** si intende un seminario, una sessione di formazione o di informazione organizzata in maniera semplice e informale durante una pausa pranzo.
+> *In pratica con **"Brown-bag"** si intende un seminario, una sessione di formazione o di informazione organizzata in maniera semplice e informale durante una pausa pranzo.*
 
 Le caratteristiche di una sessione di formazione di questo genere sono principalmente due:  
-1) si mangia  
-2) l'incontro è improntato alla discussione libera e informale (salvo una brevissima introduzione iniziale)
+1) si mangia in compagnia  
+2) dopo una breve introduzione iniziale, l'incontro è improntato alla discussione libera e informale
 
 ### La statistica a pranzo (in pratica)
-Prima di ogni incontro sarà mandato a tutti gli iscritti un tema di partenza.
+> *Prima di ogni incontro sarà inviato a tutti gli iscritti alla newsletter un tema di partenza*
 
-> Il tema di partenza sarà attinente al mondo della statistica pubblica e in particolare alle statistiche inerenti al mercato del lavoro.
+Il tema di partenza sarà attinente al mondo della statistica pubblica, in particolare alle statistiche inerenti al mercato del lavoro.
 
 <br>
 
 ## Iscrizione {.tabset}
 Per partecipare ai **"brown-bag"** siete pregati di inviare una e-mail a:  
-[**eric.stephani@ti.ch**](eric.stephani@ti.ch)  
+[*eric.stephani@ti.ch*](eric.stephani@ti.ch)  
 
 <br>
 
@@ -50,7 +50,7 @@ Per partecipare ai **"brown-bag"** siete pregati di inviare una e-mail a:
 
 ### Quando
 
-> **da definire**
+> *da definire*
 
 **Orari**: 11.30 -  13:30   
 **Periodo**: febbraio – ottobre 2020
@@ -59,8 +59,8 @@ Per partecipare ai **"brown-bag"** siete pregati di inviare una e-mail a:
 **Primo incontro**: c/o Labor transfer, centro Ala, Via Monda 2b, 6528 Camorino
 
 ### Destinatari
-Ai **brown-bag** sono invitati tutti i partecipanti al [corso di statistica pubblica](https://ericsteph.github.io/corso2020) e, ovviamente, anche corsisti degli anni passati.  
-In generale la proposta si offre a tutte le persone interessate o, semplicemente incuriosite, a ritagliarsi un momento per ascoltare o parlare di statistica.
+Ai **brown-bag** sono invitati tutti i partecipanti al [corso di statistica pubblica](https://ericsteph.github.io/corso2020) e, ovviamente, anche i corsisti degli anni passati.  
+In generale la proposta è indirizzata a tutte le persone interessate, semplicemente incuriosite, a ritagliarsi un momento per ascoltare o parlare di statistica.
 
 
 ## Date e contenuti {.tabset}
